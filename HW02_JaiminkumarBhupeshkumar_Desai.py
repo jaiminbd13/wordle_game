@@ -20,7 +20,7 @@ while attempt <= MAX_TRIAL:
         continue
 
     if not input_word.isalpha():
-        print("The word only contain alphabet symbols!")
+        print("The word only contain alphabet symbols!!")
         continue
 
     attempt += 1
